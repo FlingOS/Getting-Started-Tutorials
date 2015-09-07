@@ -1,0 +1,10 @@
+diff a/7. Memory/Code/Sample 1/Kernel.asm b/7. Memory/Code/Sample 1/Kernel.asm	(rejected hunks)
+@@ -2,6 +2,8 @@
+ 
+ GLOBAL _Kernel_Start:function
+ 
++EXTERN main
++
+ SECTION .text
+ 
+ ; BEGIN - Multiboot Header
