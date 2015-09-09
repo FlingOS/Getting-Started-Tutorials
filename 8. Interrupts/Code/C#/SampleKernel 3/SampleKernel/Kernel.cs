@@ -25,7 +25,6 @@ using System.Threading.Tasks;
 
 namespace SampleKernel
 {
-    [Drivers.Compiler.Attributes.PluggedClass]
     public static class Kernel
     {
         [Drivers.Compiler.Attributes.PluggedMethod(ASMFilePath = "ASM\\Kernel")]

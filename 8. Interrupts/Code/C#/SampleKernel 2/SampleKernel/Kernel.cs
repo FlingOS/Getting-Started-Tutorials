@@ -25,7 +25,6 @@ using System.Threading.Tasks;
 
 namespace SampleKernel
 {
-    [Drivers.Compiler.Attributes.PluggedClass]
     public static class Kernel
     {
         [Drivers.Compiler.Attributes.PluggedMethod(ASMFilePath = "ASM\\Kernel")]
@@ -133,10 +132,6 @@ namespace SampleKernel
         
         [Drivers.Compiler.Attributes.PluggedMethod(ASMFilePath = @"ASM\LoadIDT")]
         private static void LoadIDT()
-        {
-        }
-        [Drivers.Compiler.Attributes.PluggedMethod(ASMFilePath = @"ASM\PICRemap")]
-        private static void PICRemap()
         {
         }
 

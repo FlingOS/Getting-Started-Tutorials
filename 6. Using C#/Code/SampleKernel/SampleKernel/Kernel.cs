@@ -19,7 +19,6 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 namespace SampleKernel
 {
-    [Drivers.Compiler.Attributes.PluggedClass]
     public static class Kernel
     {
         [Drivers.Compiler.Attributes.PluggedMethod(ASMFilePath = "ASM\\Kernel")]

@@ -22,3 +22,11 @@ G:\Fling OS\Tutorials\2015\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Deb
 G:\Fling OS\Tutorials\2015\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\Drivers.Compiler.dll
 G:\Fling OS\Tutorials\2015\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\Drivers.Compiler.pdb
 G:\Fling OS\Tutorials\2015\7. Memory\Code\C#\SampleKernel 1\SampleKernel\obj\Debug\SampleKernel.pdb
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\obj\Debug\SampleKernel.csprojResolveAssemblyReference.cache
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\obj\Debug\SampleKernel.dll
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\obj\Debug\SampleKernel.pdb
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\ASM\Kernel.x86.asm
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\SampleKernel.dll
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\SampleKernel.pdb
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\Drivers.Compiler.dll
+G:\Fling OS\Tutorials\Getting Started Tutorials\7. Memory\Code\C#\SampleKernel 1\SampleKernel\bin\Debug\Drivers.Compiler.pdb

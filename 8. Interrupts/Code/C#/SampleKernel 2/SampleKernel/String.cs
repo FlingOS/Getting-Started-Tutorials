@@ -25,7 +25,6 @@ namespace SampleKernel
     /// Replacement class for methods, properties and fields usually found on standard System.String type.
     /// Also contains utility methods for low-level string manipulation.
     /// </summary>
-    [Drivers.Compiler.Attributes.PluggedClass]
     [Drivers.Compiler.Attributes.StringClass]
     public class String : Object
     {
