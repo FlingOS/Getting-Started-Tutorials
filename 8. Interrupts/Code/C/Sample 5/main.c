@@ -1033,6 +1033,7 @@ void main()
 	// BEGIN - Configure PIT (The Timer)
 	CLI
 	
+  // Unmask (i.e. enable) the timer and keyboard interrupts in the PIC
 	__asm__
 	(
 		"in AL, 0x21\n"
@@ -1040,6 +1041,7 @@ void main()
 		"out 0x21, AL\n"
 	);
 	
+  // Configure timer 0 of the PIT to be a slow rate generator
 	outb(0x43, 0x34)
 	outb(0x40, 0xFF)
 	outb(0x40, 0xFF)

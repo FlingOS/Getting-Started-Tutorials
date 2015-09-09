@@ -380,7 +380,7 @@ CommonInterruptHandler%1:
 	mov dword EAX, %1		; Interrupt handler #
 	cmp EAX, 33 
 	jne .NotIRQ1
-	in AL, 0x60		; Read in scancode byte of value
+	in AL, 0x60		      ; Read in scancode byte of value
 	.NotIRQ1:
 	
 	mov byte AL, %1
